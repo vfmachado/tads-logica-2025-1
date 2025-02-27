@@ -1,0 +1,12 @@
+CONFIGURAR JAVA JDK 
+
+FAZER OS COMANDOS
+    javac -version
+    java -version 
+FUNCIONAREM NO TERMINAL
+
+INSTALAR O VISUAL STUDIO CODE
+
+ASSISTIR OS VIDEOS DO GUSTAVO GUANABARA SOBRE HISTORIA DO JAVA
+https://www.youtube.com/watch?v=sTX0UEplF54
+https://www.youtube.com/watch?v=v_ZCtgwbS3o
