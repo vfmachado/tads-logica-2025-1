@@ -1,0 +1,3 @@
+// faca um programa que leia a quantidade de balas e criancas e indique quantas balas cada crianca vai receber e quantas vao sobrar;
+
+// faca um programa que dado as dimensoes de uma cozinha retangular (altura das paredas, comprimento das paredes) indique quantos m2 de piso sao necessarios para azulejar as 4 paredes e o piso. Depois pergunte ao usuarios quantos m2 vem em cada caixa e valor da caixa e indique quantas caixas de piso devem ser compradas e o valor total de piso
