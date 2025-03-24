@@ -3,7 +3,8 @@
 ### **1. Verificação de número positivo, negativo ou zero**
 Escreva um programa que receba um número inteiro do usuário e determine se ele é positivo, negativo ou zero.
 
----
+entre 0 e 10
+n >= 0 && n <=10 
 
 ### **2. Classificação de idade**
 Peça ao usuário para inserir sua idade e classifique-o em:
@@ -12,24 +13,16 @@ Peça ao usuário para inserir sua idade e classifique-o em:
 - Adulto (18 a 59 anos)
 - Idoso (60 anos ou mais)
 
----
-
 ### **3. Par ou Ímpar e Múltiplo de 5**
 Solicite um número e informe:
 - Se ele é par ou ímpar.
 - Se ele é múltiplo de 5.
 
----
-
 ### **4. Maior entre três números**
 Receba três números inteiros e determine qual deles é o maior.
 
----
-
 ### **5. Calculadora Simples**
 Peça ao usuário dois números e um operador (`+`, `-`, `*`, `/`). Com base no operador informado, execute a operação correspondente.
-
----
 
 ### **6. Aprovação de Aluno**
 Receba a nota de um aluno (de 0 a 10) e informe sua situação:
@@ -37,7 +30,8 @@ Receba a nota de um aluno (de 0 a 10) e informe sua situação:
 - Recuperação (`>= 5 e < 7`)
 - Reprovado (`< 5`)
 
----
+### EXTRA. Ordenar 3 valores
+Receba 3 valores do usuario e mostre-os em ordem crescente.
 
 ### **7. Triângulo válido e classificação**
 Peça três valores e verifique se eles podem formar um triângulo (a soma de dois lados deve ser maior que o terceiro). Caso seja válido, classifique-o como:
