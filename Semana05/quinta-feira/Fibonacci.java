@@ -10,7 +10,7 @@ public class Fibonacci {
         // 60   2 2 3 5
         int a, b, c, cont = 0;
         a = 1;
-        b = 1;
+        b = 1; 
     }
 }
         
