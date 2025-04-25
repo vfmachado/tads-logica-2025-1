@@ -1,0 +1,24 @@
+
+
+        1         2      3
+for (int i = 0; i < 10; i++) {
+    // 4  bloco
+}
+
+1  2  4    3   2  4    3  2  4     3  2   4    3  2  4    3  2 (false)
+        
+for (inicializacao ;  teste logico  ;  passo )
+
+inicializacao -> declara a variavel de controle         i = 0;
+
+teste logico -> controla quando o laco encerra... fica executando enquanto o teste logico for verdadeiro        i <  10
+
+passo -> algo que torna o teste logico falso em algum momento
+
+bloco -> trecho que quero repetir
+
+
+
+for (  ; ; ) {
+    
+}
