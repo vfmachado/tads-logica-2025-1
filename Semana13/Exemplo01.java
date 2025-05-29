@@ -23,6 +23,7 @@ public class Exemplo01 {
         // ...
         alunos[22] = "Walber";
 
+        //                    .length => atributo com o tamanho vetor
         for (int i = 0; i < alunos.length; i++) {
             System.out.println("ALUNO " + i + ": " + alunos[i]);
         }
